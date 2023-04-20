@@ -36,7 +36,7 @@
     "grunt-contrib-deb": "github:keeweb/grunt-contrib-deb#e9b6e9f",
     "grunt-contrib-htmlmin": "2.4.0",
     "grunt-contrib-uglify": "3.0.1",
-    "grunt-contrib-watch": "1.0.0",
+    "grunt-contrib-watch": "1.1.0",
     "grunt-electron": "5.0.0",
     "grunt-eslint": "19.0.0",
     "grunt-gitinfo": "0.1.8",
